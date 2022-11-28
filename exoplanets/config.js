@@ -1,6 +1,6 @@
 const PgUser = 'postgres';
 const PgHost = 'localhost';
-const PgDb = 'exoplanets';
+const PgDb = DATABASE_URL;
 const PgPassword = 'ipl';
 const PgPort = 5432;
 
